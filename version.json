@@ -1,0 +1,15 @@
+{
+  "latest_version": "1.0.1",
+  "update_required": true,
+  "changelog": [
+    "Yeni gemi eklendi",
+    "Performans iyileştirildi",
+    "Küçük hatalar düzeltildi"
+  ],
+  "new_game": {
+    "enabled": true,
+    "title": "Space Commander X",
+    "url": "https://play.google.com/store/apps/details?id=com.example.spacex"
+  },
+  "message": "Yeni güncellemeyi kaçırma!"
+}
